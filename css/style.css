@@ -1,0 +1,32 @@
+body{
+	background-color: black;
+}
+
+img{
+	width: 150px;
+	height: 100px;
+}
+
+.label{
+	text-align: center;
+	font-size: 50px;
+	font-weight:25px;
+	font-family: sans-serif;
+	color: white;
+	margin-top: 75px;
+	
+}
+
+.cuentas{
+	color:black;
+	font-size:25px;
+	font-weight: 15px;
+}
+
+.Net{
+	font-size: 30px;
+	font-family: 'Coiny', cursive;
+	color: red;
+	margin-top: 15px;
+	margin-left: 49px;
+}
